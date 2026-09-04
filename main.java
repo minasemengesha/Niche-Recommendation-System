@@ -1,8 +1,15 @@
-package Niche_Recommendation_System;
+package niche_recommendation_system;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 import javax.swing.JOptionPane;
-import java.io.*;
-import java.util.*;
 
 // ==========================================
 // 1. ABSTRACT BASE CLASS (Abstraction)
@@ -1200,13 +1207,13 @@ public class main {
             try {
                 String choice = JOptionPane.showInputDialog(
                     null,
-                    "========== NICHE FINDER SYSTEM ==========\n\n" +
+                    "========== NICHE RECOMMENDATION SYSTEM ==========\n\n" +
                     "1. Register\n" +
                     "2. Login\n" +
                     "3. Help\n" +
                     "4. Exit\n\n" +
                     "Enter choice (1-4):",
-                    "NICHE SYSTEM", JOptionPane.QUESTION_MESSAGE
+                    "NICHE RECOMMENDATION SYSTEM", JOptionPane.QUESTION_MESSAGE
                 );
 
                 if (choice == null || choice.trim().equals("4")) {
