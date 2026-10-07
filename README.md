@@ -1,6 +1,6 @@
 # Niche Recommendation System
 
-A Java Swing-based GUI application that helps aspiring content creators discover suitable content niches based on their interests, skills, resources, and goals. 
+A Java Swing-based GUI application that helps aspiring content creators discover suitable content niches based on their interests, skills, resources, and goals.
 
 Developed as a university Software Engineering project at Wachemo University, Department of Software Engineering, for the Object-Oriented Programming in Java course.
 
@@ -122,7 +122,7 @@ Niche-Recommendation-System/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/MinaXTech/Niche-Recommendation-System.git
+   git clone https://github.com/minasemengesha/Niche-Recommendation-System.git
    cd Niche-Recommendation-System
    ```
 
