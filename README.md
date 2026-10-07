@@ -1,6 +1,6 @@
 # Niche Recommendation System
 
-A Java Swing-based GUI application that helps aspiring content creators discover suitable content niches based on their interests, skills, resources, and goals.
+A Java Swing-based GUI application that helps aspiring content creators discover suitable content niches based on their interests, skills, resources, and goals. 
 
 Developed as a university Software Engineering project at Wachemo University, Department of Software Engineering, for the Object-Oriented Programming in Java course.
 

@@ -213,7 +213,7 @@ class AccountSecurity {
 
     private void saveToDatabase(String pwd) {
         // Database update logic placeholder
-    }
+    } 
 }
 
 // ==========================================
